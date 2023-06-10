@@ -1,3 +1,7 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/luis-cmenezes/aeropendulum-control)
+![GitHub repo size](https://img.shields.io/github/repo-size/luis-cmenezes/aeropendulum-control)
+![GitHub top language](https://img.shields.io/github/languages/top/luis-cmenezes/aeropendulum-control)
+
 # Projeto Inicial: Projeto Final Controle de Sistemas Lineares
 
 <img src="example-aeropendulum.png">
