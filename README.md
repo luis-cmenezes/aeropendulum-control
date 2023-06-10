@@ -25,3 +25,16 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você leu [Relatório Final](https://github.com/luis-cmenezes/aeropendulum-control/blob/main/projeto-final/Relat%C3%B3rio%20Final%20-%20Luis%20Felipe%20Costa%20Fernandes%20de%20Menezes.pdf)
 
 Concluídos os requisitos, todos os arquivos desta parte do projeto estão na pasta "projeto-final".
+
+# Reiteração: Construção, modelagem por Resposta em Frequência e controle no Espaço de Estados
+Partindo da mesma estrutura a ser controlada, o objetivo desta reiteração é não só cobrir etapas não realizadas na parte inicial, como construção e modelagem, como também reforçar e explorar ramos do Controle de Sistemas Lineares não exeplorados anteriormente, como resposta em frequência e controladores no espaço de estados.
+
+### Etapas
+
+A reiteração do projeto contará com os seguintes passos:
+
+- [ ]  Projeto do circuito eletrônico
+- [ ]  Modelagem e impressão da estrutura
+- [ ]  Identificação do modelo por resposta em frequência
+- [ ]  Criação de um controlador no SS através do modelo obtido
+- [ ]  Documentação do projeto
